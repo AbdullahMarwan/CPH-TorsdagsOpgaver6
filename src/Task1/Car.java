@@ -1,4 +1,4 @@
-package com.company;
+package Task1;
 
 //TODO 1.c Car Class and Constructor
 public class Car {
